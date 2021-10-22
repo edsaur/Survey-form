@@ -1,18 +1,10 @@
 # SURVEY FORM
 
-### CONTENT BOX
+This is another project that I have done.
+It is a School Survey form.
 
-**/ BODY /**
+### CONTENTS
 
-- Has a background-image with filter color.
-
-**/ HEADER /**
-
-- 2 lines of text (Title of survey form and subtitle).
-- All fall under one div box.
-
-**/ SURVEY FORM /**
-
-- Content falls under one div box.
-- Has 9 contents that has individual div boxes.
-- parent div has background-color.
+- Contains a header with title and subtitle used Flexbox to center the elements
+- One parent div for the survey form, and a parent div for the main-form containing the survey form.
+- used box-sizing for the foreground color.
